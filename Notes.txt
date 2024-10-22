@@ -1,0 +1,7 @@
+KNN doesnot have a training step instead it is a lazy learning algorithm
+Usually X means dataset and Y means our labels
+
+Hyperparameters are external configuration variables used to manage machine learning model training. Sometimes called model hyperparameters, the hyperparameters are manually set before training a model.
+Basically some constant that we will tune to make it work
+
+
